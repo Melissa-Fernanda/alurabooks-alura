@@ -27,6 +27,7 @@
 .lista-menu{
     display: none;
     position: absolute;
+    z-index: 9000;
     top: 100%;
     width: 60vw;
 }
