@@ -1,0 +1,10 @@
+.rodapé {
+    padding: 1.5em;
+    background: var(--cor-branco);
+    border-top: 1px solid var(--cor-cinza-escuro);
+}
+
+.rodapé__titulo {
+    font-size: 16px;
+    font-weight: 400;
+}
